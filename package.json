@@ -1,0 +1,7 @@
+{
+	"name": "NodeJS-JSONP-Example",
+	"main": "./server.js",
+	"dependencies": {
+		"express": "latest"
+	}
+}
